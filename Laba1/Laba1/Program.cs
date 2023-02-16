@@ -34,8 +34,7 @@ namespace Laba1
                 Console.WriteLine("Конечный ответ: ");
                 Console.WriteLine((Math.PI / 2) + Sum);
             }
-                Console.WriteLine("Конечный ответ: ");
-                Console.WriteLine((Math.PI / 2) + Sum);
+               
             
         }
     }
